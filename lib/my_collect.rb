@@ -3,7 +3,7 @@ def my_collect(x)
   output_array = []
   while i < x.length
     output_array << x[i]
-    i++
+    i+= 1
   end
   output_array
 end
