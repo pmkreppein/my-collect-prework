@@ -5,7 +5,7 @@ def my_collect(x)
     output_array << i
     i++
   end
-  return output_array
+  output_array
 end
   
 
